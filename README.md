@@ -1,2 +1,11 @@
-# FoT
- This is my respository of all work I've done on the Friends of Tracking videos.
+# Friends of Tracking (FoT)
+This is my respository of all work I've done in regards to the Friends of Tracking (FoT) online lectures and videos on Youtube.
+FoT is provided by David Sumpter in cooperation with other big names in the football analytics world, including William Spearmann (Liverpool), Sergio Llana (Barcelona), Laurie Shaw among many others.
+
+### Content
+
+#### Lectures
+- FCPython.py
+- genfunc.py
+- 1_exploreStatsBombData.ipynb
+- 2_ShotAndPassMaps.ipynb
