@@ -5,9 +5,15 @@ FoT is provided by David Sumpter in cooperation with other big names in the foot
 ### Content
 
 #### Lectures
-- FCPython.py
+* *FCPython.py*
+
 A python file created by https://fcpython.com/, which plots the map used for Pass Maps, Shot Maps etc.
-- genfunc.py
+
+* *genfunc.py*
+
 A collection of common functions which are often used when workning with event and tracking data, like loading and transforming the raw data. 
-- 1_exploreStatsBombData.ipynb
-- 2_ShotAndPassMaps.ipynb
+
+* *1_exploreStatsBombData.ipynb*
+
+* *2_ShotAndPassMaps.ipynb*
+
