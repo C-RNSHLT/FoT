@@ -12,9 +12,14 @@ FoT is provided by David Sumpter in cooperation with other big names in the foot
 
 
     * _FCPython.py_
+
 A python file created by https://fcpython.com/, which plots the map used for Pass Maps, Shot Maps etc.
+
     * _genfunc.py_
+
 A collection of common functions which are often used when workning with event and tracking data, like loading and transforming the raw data. 
+
     * _Metrica_IO_
+
     * _Metrica_VIZ_
 
